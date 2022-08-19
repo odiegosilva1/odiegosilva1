@@ -1,13 +1,38 @@
 
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> World 🌏 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=odiegosilva1&color=yellow" alt="Profile views" /> </p>
 
-  <img 
-  <a href="https://github.com/odiegosilva1">
-  <img align="rigth" height="590em" src="https://github-readme-stats.vercel.app/api?username=odiegosilva1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="590em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odiegosilva1&layout=compact&langs_count=7&theme=dark"/>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=odiegosilva1&show_icons=true&theme=vision-friendly-dark" alt="Diegos's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odiegosilva1&layout=compact&theme=vision-friendly-dark" alt="Diego's most languages"/>
+</p>
 
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   
-  - 🌱 I’m currently learning Front-End
+ ## Contact
+
+</a>
+<a href="https://linkedin.com/in/odiegosilva" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-odiegosilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+ 
+**odiegoislva1/odiegosilva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🌱 I’m currently learning about **Game dev** 
+- 💬 Ask me about **CSS, HTML JS Game Dev**
 - 📫 How to reach me: https://odiegosilva.dev.br
+
+**Stay Punk Bro** 🤘
+
 
   
 
