@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning about **Game dev** 
 - 💬 Ask me about **CSS, HTML JS Game Dev**
-- 👨‍💻 More at [maykbrito.dev](https://odiegosilva.dev.br)
+- 👨‍💻 More at [odiegoislva.dev](https://odiegosilva.dev.br)
 
 **Stay Punk Bro** 🤘
 
