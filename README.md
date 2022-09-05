@@ -1,10 +1,10 @@
 
 <h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> World 🌏 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=odiegosilva1&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=odiegosilva&color=yellow" alt="Profile views" /> </p>
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=odiegosilva1&show_icons=true&theme=vision-friendly-dark" alt="Diegos's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odiegosilva1&layout=compact&theme=vision-friendly-dark" alt="Diego's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=odiegosilva&show_icons=true&theme=vision-friendly-dark" alt="Diegos's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odiegosilva&layout=compact&theme=vision-friendly-dark" alt="Diego's most languages"/>
 </p>
 
 <br><br>
