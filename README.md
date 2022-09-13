@@ -23,7 +23,7 @@
 **odiegoislva1/odiegosilva1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently learning about **Game dev** 
-- 💬 Ask me about **CSS, HTML JS**
+- 💬 Ask me about **CSS, HTML e JS**
 - 👨‍💻 More at [odiegoislva.dev](https://odiegosilva.dev.br)
 
 **Stay Punk Bro** 🤘
