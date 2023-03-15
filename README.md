@@ -22,7 +22,7 @@
  
 - 🌱 I’m currently learning about **Front-End & Game dev** 
 - 💬 Ask me about **CSS, HTML e JS**
-- 👨‍💻 More at [odiegoislva.dev](https://odiegosilva1.github.io)
+- 👨‍💻 
 
 **Stay Punk Bro** 🤘
 
