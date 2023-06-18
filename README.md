@@ -16,7 +16,7 @@
 </a>
  
 - 🌱 I’m currently learning about **Front-End & Game dev** 
-- 💬 Ask me about **CSS, HTML e JS**
+- 💬 Ask me about **python**
 - 👨‍💻 
 
 **Stay Punk Bro** 🤘
