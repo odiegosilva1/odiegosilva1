@@ -6,8 +6,7 @@
 
 ## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML%](https://img.shields.io/badge/HTML-05122A?style=flat&logo=html)&nbsp;
-![CSS3%](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css)&nbsp;
+
  
   
  ## Contact
