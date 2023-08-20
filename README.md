@@ -16,7 +16,7 @@
   <img align="center" src="https://img.shields.io/badge/-odiegosilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
  
-- 🌱 I’m currently learning about **Front-End & Game dev** 
+- 🌱 I’m currently learning about **Front-End** 
 - 💬 Ask me about **Front-End**
 - 👨‍💻 
 
