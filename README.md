@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Repositório!
 
-![Banner](link_para_sua_imagem_banner.png) <!-- link da sua imagem banner -->
+![Banner](unopodcast.gif) <!-- link da sua imagem banner -->
 
 Seja muito bem-vindo ao meu repositório! Aqui você encontrará projetos e recursos relacionados ao meu aprendizado e jornada como desenvolvedor front-end iniciante e meu interesse crescente em desenvolvimento de jogos. Sinta-se à vontade para explorar, clonar, contribuir e aprender junto comigo.
 
