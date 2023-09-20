@@ -20,7 +20,7 @@ Estou ansioso para contribuir e aprender nesta comunidade tecnológica vibrante.
   <img src="https://profile-counter.glitch.me/odiegosilva1/count.svg?"/>
 </div>
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Stack Atual 👨‍💻</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
