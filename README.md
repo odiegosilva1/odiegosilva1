@@ -2,7 +2,7 @@
 <h1 align="left">Bem-vindo(a)</h1>
 
 <p align="left"> 
-Olá, 👋 estou empolgado com a minha jornada de transição de carreira para a área de tecnologia. Com uma sólida bagagem profissional na indústria, estou agora focado em aprimorar minhas habilidades como desenvolvedor web full stack por meio da incrível instituição <b>#Growdev</b> no progrma de formação <b>Starter Web Full Stack</b>.
+Olá, 👋 estou empolgado com a minha jornada de transição de carreira para a área de tecnologia. Com uma sólida bagagem profissional na indústria, estou agora focado em aprimorar minhas habilidades como desenvolvedor web por meio da incrível instituição <b>#Growdev</b> no progrma de formação <b>Starter Web Full Stack</b>.
 
 ### 🚀 Minha Jornada
 
