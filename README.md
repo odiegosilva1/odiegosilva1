@@ -1,8 +1,7 @@
 
 <h1 align="left">Bem-vindo(a)</h1>
 
-<p align="left"># Sobre Mim
-
+<p align="left"> 
 Olá, 👋 estou empolgado com a minha jornada de transição de carreira para a área de tecnologia. Com uma sólida bagagem profissional na indústria, estou agora focado em aprimorar minhas habilidades como desenvolvedor web full stack por meio da incrível instituição Growdev.
 
 ### 🚀 Minha Jornada
