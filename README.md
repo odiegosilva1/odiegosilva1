@@ -1,17 +1,26 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Bem-vindo(a)</h1>
 
-###
+<p align="left"># Sobre Mim
 
-<p align="left">My name is <b>Diego</b> and I'm a <b>Web Developer</b>, from <b>Internet</b></p>
+Olá, 👋 estou empolgado com a minha jornada de transição de carreira para a área de tecnologia. Com uma sólida bagagem profissional na indústria, estou agora focado em aprimorar minhas habilidades como desenvolvedor web full stack por meio da incrível instituição Growdev.
+
+### 🚀 Minha Jornada
+
+- 💼 **Experiência Industrial**: Trabalhei anos na indústria, adquirindo valiosas habilidades em gestão, organização e resolução de problemas.
+- 📚 **Aprendizado Constante**: Sou apaixonado por aprender e adoro ler sobre assuntos relacionados às humanidades, como sociologia, história e política, o que me dá uma perspectiva única na tecnologia.
+- 🏃‍♂️ **Correr**: Nas horas vagas, você me encontrará correndo ao ar livre, o que me ajuda a manter um equilíbrio saudável entre mente e corpo.
+- 🎵 **Ouvir Música**: A música é minha companhia constante enquanto trabalho ou relaxo.
+- 🎲 **Mestrar RPG**: Sou um mestre de RPG nas horas vagas, adoro criar histórias e mundos para os meus jogadores explorarem.
+
+Estou ansioso para contribuir e aprender nesta comunidade tecnológica vibrante. Vamos construir coisas incríveis juntos! 🚀✨
+</p>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/odiegosilva1/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/odiegosilva1/count.svg?"/>
 </div>
 
-
 <h2 align="left">I code with</h2>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
