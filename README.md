@@ -15,9 +15,9 @@ Olá, 👋 estou empolgado com a minha jornada de transição de carreira para a
 Estou ansioso para contribuir e aprender nesta comunidade tecnológica vibrante. Vamos construir coisas incríveis juntos! 🚀✨
 </p>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-counter.glitch.me/odiegosilva1/count.svg?"/>
-</div>
+</div>-->
 
 <h2 align="left">Stack Atual 👨‍💻</h2>
 
