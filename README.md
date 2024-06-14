@@ -1,18 +1,8 @@
+🔐 Starting my journey in the field of Information Security! 🚀
 
-<h1 align="left">Bem-vindo(a)</h1>
+Diving deep into studies on data protection, vulnerability analysis, and cyberattack defense. With a growing passion for understanding and mitigating digital risks, I am committed to developing skills that help keep critical information secure.
 
-<p align="left"> 
-Olá, 👋 estou empolgado com a minha jornada de transição de carreira para a área de tecnologia. Com uma sólida bagagem profissional na indústria, estou agora focado em aprimorar minhas habilidades como desenvolvedor web por meio da incrível instituição <b>#Growdev</b> no progrma de formação <b>Starter Web Full Stack</b>.
-
-### 🚀 Minha Jornada
-
-- 💼 **Experiência Industrial**: Trabalhei anos na indústria, adquirindo valiosas habilidades em gestão, organização e resolução de problemas.
-- 📚 **Aprendizado Constante**: Sou apaixonado por aprender e adoro ler sobre assuntos relacionados às humanidades, como sociologia, história e política, o que me dá uma perspectiva única na tecnologia.
-- 🏃‍♂️ **Correr**: Nas horas vagas, você me encontrará correndo ao ar livre, o que me ajuda a manter um equilíbrio saudável entre mente e corpo.
-- 🎵 **Ouvir Música**: A música é minha companhia constante enquanto trabalho ou relaxo.
-- 🎲 **Mestrar RPG**: Sou um mestre de RPG nas horas vagas, adoro criar histórias e mundos para os meus jogadores explorarem.
-
-Estou ansioso para contribuir e aprender nesta comunidade tecnológica vibrante. Vamos construir coisas incríveis juntos! 🚀✨
+Follow my journey and share insights - I am excited to learn and collaborate with experts in the field! 🛡️💻
 </p>
 <h2 align="left">Stack Atual 👨‍💻</h2>
 
