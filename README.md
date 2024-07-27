@@ -1,9 +1,8 @@
-🔐 Starting my journey in the field of Information Security! 🚀
+🌟 Desenvolvedor Front-End em Início de Carreira 🌟
 
-Diving deep into studies on data protection, vulnerability analysis, and cyberattack defense. With a growing passion for understanding and mitigating digital risks, I am committed to developing skills that help keep critical information secure.
+Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente focado no desenvolvimento front-end. Com uma base sólida em HTML, CSS e JavaScript, estou continuamente aprimorando minhas habilidades através de cursos e projetos práticos. 
 
-Follow my journey and share insights - I am excited to learn and collaborate with experts in the field! 🛡️💻
-</p>
+Estou sempre em busca de novas oportunidades para aprender e crescer, e estou empolgado para colaborar com equipes criativas para construir interfaces de usuário intuitivas e eficientes. Minha jornada no desenvolvimento front-end é impulsionada pela curiosidade e pelo desejo de transformar ideias em realidades digitais.
 <h2 align="left">Stack Atual 👨‍💻</h2>
 
 <div align="left">
