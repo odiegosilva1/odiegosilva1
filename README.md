@@ -1,4 +1,4 @@
-🌟 Desenvolvedor Front-End em Início de Carreira 🌟
+🌟 Estudante Desenvolvimento Web 🌟
 
 Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente focado no desenvolvimento front-end. Com uma base sólida em HTML, CSS e JavaScript, estou continuamente aprimorando minhas habilidades através de cursos e projetos práticos. 
 
