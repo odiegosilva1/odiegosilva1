@@ -1,9 +1,5 @@
-🌟 Estudante Desenvolvimento Web 🌟
+🌟 Jogos 🌟
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação, atualmente focado no desenvolvimento front-end. Com uma base sólida em HTML, CSS e JavaScript, estou continuamente aprimorando minhas habilidades através de cursos e projetos práticos. 
-
-Estou sempre em busca de novas oportunidades para aprender e crescer, e estou empolgado para colaborar com equipes criativas para construir interfaces de usuário intuitivas e eficientes. Minha jornada no desenvolvimento front-end é impulsionada pela curiosidade e pelo desejo de transformar ideias em realidades digitais.
-<h2 align="left">Stack Atual 👨‍💻</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -12,10 +8,7 @@ Estou sempre em busca de novas oportunidades para aprender e crescer, e estou em
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" /
    <img width="12">
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
