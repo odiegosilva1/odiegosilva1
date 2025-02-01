@@ -1,7 +1,7 @@
 
 ---
 
-👋 Olá, eu sou [Diego]!  
+# 👋 Olá, eu sou Diego!  
 
 🚀 **Desenvolvedor Web em Início de Carreira**  
 🌐 **Foco em Desenvolvimento Full-Stack Web**  
