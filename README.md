@@ -3,12 +3,7 @@
 
 # 👋 Olá, eu sou Diego!  
 
-🌟 **Minha Jornada na Tecnologia**  
-Há algum tempo, mergulhei no mundo da tecnologia, explorando linguagens de programação, ferramentas e conceitos que despertaram minha paixão por criar soluções inovadoras. Cada projeto e curso foi um passo importante para entender como a tecnologia pode transformar ideias em realidade.  
-
-Agora, estou dando um novo passo nessa jornada: ingressei na graduação em **Análise e Desenvolvimento de Sistemas (ADS)**. Essa é uma oportunidade para aprofundar meus conhecimentos, consolidar minha base técnica e me preparar para os desafios do mercado de TI.  
-
-Estou animado(a) para compartilhar essa nova fase, aprender cada vez mais e contribuir com projetos que façam a diferença. Vamos juntos nessa evolução! 🚀  
+**Atualmente curso Análise e Desenvolvimento de Sistemas, dedicando-me ao desenvolvimento de jogos colaborativos em Godot 4.x, com domínio em GDScript, C#, Java e Python. Tenho especial interesse em participar ativamente de todos os estágios de produção - desde o design inicial até a implementação de sistemas multiplayer e otimização final. Utilizo Git para gestão de versionamento em projetos que buscam fomentar comunidades de aprendizado coletivo. Meu objetivo é combinar conhecimentos acadêmicos com desenvolvimento prático para criar experiências interativas significativas. Convido desenvolvedores e entusiastas para colaborações que unam técnica e criatividade em projetos inovadores.**
 
 ---
 <div align="left">
