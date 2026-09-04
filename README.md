@@ -1,6 +1,5 @@
-<div justify-items: left>
-<img src="./eu-girando.gif" width="450" height="500" justify-items: left> 
-</div>
+
+<img src="./eu-girando.gif" width="450" height="500" > 
 
 
 
