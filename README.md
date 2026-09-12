@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<img src="./eu-girando.gif" alt="Eu girando" width="500" align="left">
+<img src="./eu-girando.gif" alt="Eu girando" width="450" align="left">
 
 ### 🛠️ Stack de Tecnologias
 
