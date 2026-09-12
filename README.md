@@ -1,8 +1,23 @@
+# 👋 Olá, eu sou o Diego
 
-<img src="./eu-girando.gif" width="450" height="500" > 
+<div align="left">
 
+<img src="./eu-girando.gif" alt="Eu girando" width="500" align="left">
 
+### 🛠️ Stack de Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask,sqlite,cpp,linux,bash,js,nodejs,html,css,godot,git,lua)](https://skillicons.dev)
----
+- 🐍 **Python** — Django, Flask
+- 🗄️ **SQLite** — banco de dados leve
+- ⚙️ **C++** — programação de sistemas
+- 🐧 **Linux** — ambiente principal
+- 💻 **Bash** — automação e scripts
+- 🟨 **JavaScript** — frontend e Node.js
+- 🟩 **Node.js** — runtime backend
+- 🌐 **HTML5** — estrutura web
+- 🎨 **CSS3** — estilização
+- 🎮 **Godot** — desenvolvimento de jogos
+- 🔧 **Git** — controle de versão
+- 🌙 **Lua** — scripting e embeds
+
+</div>
 
